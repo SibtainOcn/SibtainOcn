@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Android-Kotlin-2563EB?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Infra-Go%20%7C%20Python-00ADD8?style=flat&logo=go&logoColor=white" alt="Infra" />
   <img src="https://img.shields.io/badge/Status-Shipping-2ea44f?style=flat&logo=github&logoColor=white" alt="Status" />
-  <a href="https://buymeacoffee.com/sibtainocean"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" /></a>
 </p>
 
 I build Android apps and the infrastructure behind them.<br>
